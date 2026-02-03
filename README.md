@@ -1,4 +1,4 @@
-# EmotiSense 🎭  
+# MoodVision-AI 🎭  
 ### Real-Time Facial Emotion Detection System
 
 EmotiSense is a real-time emotion detection system that analyzes facial expressions from a live camera feed and predicts human emotions using computer vision and machine learning techniques. The project focuses on efficiency, interpretability, and real-time performance using classical machine learning models instead of heavy deep learning frameworks.
